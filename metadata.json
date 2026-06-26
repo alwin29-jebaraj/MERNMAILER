@@ -1,0 +1,6 @@
+{
+  "name": "MERN Mailer Pro",
+  "description": "A high-performance full-stack bulk email dashboard styled with a premium dark Bento Grid interface, featuring Nodemailer dispatch, local persistence, real test SMTP preview links, and Gemini-powered smart composition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
